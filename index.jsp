@@ -6,7 +6,7 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<!!!!!html>
+<html>
   <head>
     <title>Simple Java Web App Demo</title>
   </head>
@@ -20,7 +20,7 @@
     <form action="FormServlet" method="POST">
       First Name: <input type="text" name="first_name">
       <br />
-      Last Name: <input type="text" name="last_name" />
+      Last Name: <input type="tex!!!!!!!!!t" name="last_name" />
       <input type="submit" value="Submit" />
     </form>
     <h2>Example #3 - Access website with visitor count tracking</h2>
