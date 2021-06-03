@@ -13,7 +13,7 @@
   <body>
     <h1>Simple Java Web App Demo</h1>
     <h2>Example #1 - Generate website using servlet</h2>
-    <p>To invoke a simple Java servlet click <a href="SimpleServlet">here</a></p>
+    <p>To invoke a simple Java servlet click EDEN KORAL<a href="SimpleServlet">here</a></p>
     <h2>Example #2 - Pass data to servlet</h2>
     <p>To invoke Java servlet and pass data to it fill the form below and hit the "Submit" button</p>
     <br/>
